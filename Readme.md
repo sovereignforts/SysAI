@@ -1,28 +1,28 @@
 📂 REPOSITORY STRUCTURE:
 
 nlp-chatbot-github/
-├── .github/              ← GitHub workflows
-├── .gitignore            ← Git ignore rules
-├── .env.example          ← Environment example
-├── README.md             ← Documentation
-├── LICENSE               ← MIT License
-├── requirements.txt      ← Dependencies
-├── setup.py             ← Package setup
-├── Makefile             ← Common commands
-├── vercel.json          ← Vercel config
+├── .github/               
+├── .gitignore         
+├── .env.example          
+├── README.md             
+├── LICENSE             
+├── requirements.txt      
+├── setup.py            
+├── Makefile             
+├── vercel.json          
 ├── UPLOAD_INSTRUCTIONS.md
 ├── GITHUB_UPLOAD_GUIDE.md
-├── config/              ← Configuration (2 files)
-├── src/                 ← Source code (24 files)
-│   ├── models/          ← ML models
-│   ├── processors/      ← Data processors
-│   ├── storage/         ← Database
-│   ├── learning/        ← Learning system
-│   └── utils/           ← Utilities
-├── scripts/             ← Utility scripts (3 files)
-├── tests/               ← Tests (2 files)
-├── docker/              ← Docker (2 files)
-├── data/                ← Data directories
-└── logs/                ← Logs directory
+├── config/               
+├── src/                 
+│   ├── models/         
+│   ├── processors/    
+│   ├── storage/        
+│   ├── learning/        
+│   └── utils/        
+├── scripts/            
+├── tests/              
+├── docker/              
+├── data/               
+└── logs/                
 
 Total: 48 files
